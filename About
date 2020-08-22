@@ -1,0 +1,6 @@
+Dataset contains information from year(1985-2015)
+Dataset is pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
+Columns used: 'country', 'year', 'sex', 'age', 'suicides_no', 'population',
+       'suicides/100k pop', 'country-year', 'HDI for year',
+       ' gdp_for_year ($) ', 'gdp_per_capita ($)', 'generation'
+Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living.
